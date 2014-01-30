@@ -150,5 +150,6 @@ Released under the MIT License
 [13]: http://sandbox.prestacms.fr/sitemap.sandbox.xml
 
 
+test travis
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/prestaconcept/prestasitemapbundle/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
